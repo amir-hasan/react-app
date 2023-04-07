@@ -215,7 +215,7 @@ function App() {
         <img src={c} className="cx" />
       </div>
       <div className="dv" id="HOW WE WORK">
-        <p className="sh"><pre>H O W  W E  W O R K</pre></p>
+        <p className="sh"><pre>H O W  W E  WK</pre></p>
         <p className="dk">Nearshoring with Quasar</p>
         <div className="tw"></div>
         <div className="hj"><div className="desc-left">We develop qualitative software specifically tailored to your needs and goals, from web-based applications to mobile apps and AI systems.<br/><br/>Advantages: more flexibility, efficiency and reliability through custom software.</div><div class="desc-right">Quasar custom software development is streamlined, efficient and customer focused. Most  importantly, it is tailored to your objectives.<br/><br/>This is ensured through sound requirements management and staff augmentation.</div></div>
